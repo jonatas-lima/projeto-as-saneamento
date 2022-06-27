@@ -14,6 +14,7 @@
 ### Módulo de denúncias
 → O **módulo de denúncias** será voltado para exposição e notificação das regiões sem saneamento básico, com o intuito de dar visibilidade e gerar impacto nessa causa social.
   - _O app deve conter uma seção de denúncias, em que o usuário registra com imagens ou vídeos uma área de sua cidade que carece de saneamento básico e/ou água potável._
+  - _O app deve conter um mapa com hotspots de denúncias. Isto é, quanto mais denúncias uma localidade houver, mais viva será a cor nessa região._
   - _Para uma denúncia comprovada, o vídeo/imagem seria postado em um site, com as devidas informações de localidade._
   - _Para uma denúncia comprovada, o órgão do governo responsável será notificado via e-mail com o vídeo da denúncia, as informações de localidade._
   - _Para uma denúncia comprovada, um post é feito em contas nas redes sociais - Instagram e twitter, por exemplo - denunciando o problema._
