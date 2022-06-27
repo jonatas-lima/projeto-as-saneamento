@@ -7,25 +7,19 @@
 - A falta de visibilidade dessas regiões perpetua o problema e, com o passar do tempo, agrava ainda mais.
 
 ## A solução
-- O app em si não surte muito efeito isoladamente. Mas quando integrado com o Estado, com as grandes empresas do mercado e com a mídia social, pode causar um impacto bastante positivo na sociedade.
-- É necessário informar a população de regiões com falta de saneamento básico acerca dos riscos de se conviver nessas áreas, com o intuito de disseminar uma política de "controle de danos".
-- O app é dividido em dois módulos: 
-  1. Um **módulo informativo**, para conscientização da população no geral, tanto as pessoas que vivem em regiões carentes, como para as pessoas que não vivem nessas regiões.
-  2. Um **módulo de denúncias**, para exposição e notificação das regiões sem saneamento básico, com o intuito de dar visibilidade e gerar impacto nessa causa social.
-
-### Módulo informativo
-- Em relação às doenças:
-  - Doenças comuns  
-  - Sintomas
-  - Tratamento
-  - Qual médico/a procurar
-
-- Informações de como ajudar uma região que carece de saneamento básico.
-- Informações de como identificar uma região sem saneamento básico.
-- Um mapa que mostra os "hotspots" (regiões com muitas denúncias de falta de saneamento básico).
-
+- O app em si não surte muito efeito isoladamente. Mas quando integrado com o Estado e com a mídia social, pode causar um impacto bastante positivo na sociedade.
+- É necessário expor à sociedade regiões com falta de saneamento básico, que causam riscos à saúde dos moradores dessas áreas, com o intuito de alertar para os perigos e denunciar o descaso com essas localidades.
+- É importante atentar para empresas e instituições que contribuem para o aumento do problema do saneamento, bem como as que buscam tomar atitudes para amenizá-lo.
+   
 ### Módulo de denúncias
-- O app deve conter uma seção de denúncias, em que o usuário registra com imagens ou vídeos uma área de sua cidade que carece de saneamento básico e/ou água potável.
-- Para uma denúncia comprovada, o vídeo/imagem seria postado em um site, com as devidas informações de localidade.
-- Para uma denúncia comprovada, o órgão do governo responsável será notificado via e-mail com o vídeo da denúncia, as informações de localidade.
-- Para uma denúncia comprovada, o usuário ganha algum benefício associado à compra em alguma empresa parceira do app.
+→ O **módulo de denúncias** será voltado para exposição e notificação das regiões sem saneamento básico, com o intuito de dar visibilidade e gerar impacto nessa causa social.
+  - _O app deve conter uma seção de denúncias, em que o usuário registra com imagens ou vídeos uma área de sua cidade que carece de saneamento básico e/ou água potável._
+  - _Para uma denúncia comprovada, o vídeo/imagem seria postado em um site, com as devidas informações de localidade._
+  - _Para uma denúncia comprovada, o órgão do governo responsável será notificado via e-mail com o vídeo da denúncia, as informações de localidade._
+  - _Para uma denúncia comprovada, um post é feito em contas nas redes sociais - Instagram e twitter, por exemplo - denunciando o problema._
+  - _Para uma denúncia comprovada, se ela for feita acerca de uma empresa ou instituição que esteja contribuindo com o agravamento dos problemas de saneamento básico - despejando resíduos em córregos, por exemplo -, o órgão ambiental competente será notificado, via email ou atrvés de algum canal atendimento disponiblizado por ele, para que as medidas legais sejam tomadas._
+### Módulo de divulgação
+→ O **módulo de divulgação** será voltado para a propagação de iniciativas que visam amenizar os problemas realacionados ao saneamento básico.
+  - _O app deve conter uma seção de divulgação de instituições e empresas que tenham iniciativas sustentáveis que visam mitigar os problemas da falta de saneamento - a P&G, por exemplo, realiza a distribuição de um purificador de água para regiões onde há escassez de água potável._
+  - _O app deve conter uma seção que oriente o usuário sobre a construção de projetos voltados à sustentabilidade, como reuso de água, redução da produção de lixo e retutilização de resíduos, etc._
+
