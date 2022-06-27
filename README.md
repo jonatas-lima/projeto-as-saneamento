@@ -17,7 +17,7 @@
   - _Para uma denúncia comprovada, o vídeo/imagem seria postado em um site, com as devidas informações de localidade._
   - _Para uma denúncia comprovada, o órgão do governo responsável será notificado via e-mail com o vídeo da denúncia, as informações de localidade._
   - _Para uma denúncia comprovada, um post é feito em contas nas redes sociais - Instagram e twitter, por exemplo - denunciando o problema._
-  - _Para uma denúncia comprovada, se ela for feita acerca de uma empresa ou instituição que esteja contribuindo com o agravamento dos problemas de saneamento básico - despejando resíduos em córregos, por exemplo -, o órgão ambiental competente será notificado, via email ou atrvés de algum canal atendimento disponiblizado por ele, para que as medidas legais sejam tomadas._
+  - _Para uma denúncia comprovada, se ela for feita acerca de uma empresa ou instituição que esteja contribuindo com o agravamento dos problemas de saneamento básico - despejando resíduos em córregos, por exemplo -, o órgão ambiental competente será notificado, via email ou através de algum canal atendimento disponiblizado por ele, para que as medidas legais sejam tomadas._
 ### Módulo de divulgação
 → O **módulo de divulgação** será voltado para a propagação de iniciativas que visam amenizar os problemas realacionados ao saneamento básico.
   - _O app deve conter uma seção de divulgação de instituições e empresas que tenham iniciativas sustentáveis que visam mitigar os problemas da falta de saneamento - a P&G, por exemplo, realiza a distribuição de um purificador de água para regiões onde há escassez de água potável._
